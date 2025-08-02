@@ -16,14 +16,15 @@ Welcome to my GitHub! I'm passionate about building mobile apps with clean UI an
 - **Dart**
 - **Java**
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-subray-659809292)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:bssonali055@gmail.com)
-
-## 📊 GitHub Stats
-
-![Sonali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BSSonali&show_icons=true&theme=tokyonight)
+## 📫 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/sonali-subray-659809292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:bssonali055@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 

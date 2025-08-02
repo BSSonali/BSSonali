@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Sonali
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="80"/>
 
 
 Welcome to my GitHub! I'm passionate about building mobile apps with clean UI and efficient functionality using Flutter and Firebase.
